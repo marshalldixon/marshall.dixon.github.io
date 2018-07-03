@@ -35,3 +35,15 @@ Sample Text
         <p>That's my first html project at SourceLair and it seems cool.</p>
     </body>
 </html>
+
+   <body>
+      <h1>A Tale of Two Cities</h1>
+      <p>
+         It was the best of times, it was the worst of times, . . . .
+      </p>
+      . . .
+      <p>
+         . . . it is a far, far better rest
+         that I go to than I have ever known.
+      </p>
+   </body>
